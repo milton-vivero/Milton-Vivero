@@ -1,0 +1,18 @@
+# Hola, soy Milton 👋
+
+Soy Analista de Sistemas y Datos, he trabajado y optimizando procesos dentro del ambito administrativo, llegando a colaborar con empresas en distintos giros de negocio como la Construcción, Medios de Comunicación, Financiero, Ong's, Retail y actualmente en Seguros.
+Desde 2021 en la pandemia, inicie mi actualización de conocimientos en lenguajes como Python y Power Bi. 
+
+--
+
+## 🛠️ Tecnologías y Herramientas
+-Python (Pandas, Numpy, Matplotlib, Seaborn)
+-Rstudio (Tidyverse, dplyr, ggplot2, readr, tidyr)
+-VisualBasic
+-C++
+-SQL (SELECT, FROM, WHERE, ORDER BY, INNER JOIN, LEFT JOIN...)
+-Power Bi (Power Query, Modelado de datos, Lenguaje Dax, Visualización y diseño)
+
+
+---
+📍 [Ecuador]
