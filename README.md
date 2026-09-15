@@ -2,11 +2,13 @@
   <h1>Milton Vivero</h1>
   <p><b>Analista de Datos | Especialista en BI | SQL, Power BI y Python</b></p>
 
-  🌐 [LinkedIn](https://linkedin.com) | ✉️ [Gmail](mailto:tu-correo@email.com)
+  <!-- REDES SOCIALES EN FORMATO PURO -->
+  [![LinkedIn](https://shields.io)](https://linkedin.com) &nbsp; [![Gmail](https://shields.io)](mailto:tu-correo@email.com)
   
   <br><br>
 
-  <img src="https://vercel.app" alt="Estadísticas de Milton" />
+  <!-- GRÁFICA DE ESTADÍSTICAS CORREGIDA -->
+  ![Estadísticas de GitHub](https://vercel.app)
 </div>
 
 <br>
