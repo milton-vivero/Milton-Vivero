@@ -14,7 +14,7 @@
 
 Soy **Milton Vivero**, Profesional en Analisis de Sistemas con más de 10 años de experiencia en soporte administrativo y de gestión del talento humano, experto en manejo de información física y digital donde se custodian los datos, con solida experiencia en procesos y mejora continua a traves de capacitación a equipos de trabajo.
 
-Diseño y construyo **Dashboard ejecutivos **, a traves de **ETL** y estructuro modelos lógicos que permiten optimizar procesos operativos y financieros en las organizaciones.
+Diseño y construyo **Dashboard ejecutivos**, a traves de **ETL** y estructuro modelos lógicos que permiten optimizar procesos operativos y financieros en las organizaciones.
 
 ## ⚡ De un vistazo
 
