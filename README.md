@@ -93,6 +93,28 @@ Mi interés se centra en combinar **datos, automatización, visualización y an�
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="48" height="48" alt="RStudio"/>
       <br><b>RStudio</b>
     </td>
+    <td align="center" width="120">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/>
+      <br><b>C++</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Basic"/>
+      <br><b>Visual Basic</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <div style="font-size:40px">🗄️</div>
+      <br><b>Visual FoxPro</b>
+    </td>
+    <td align="center" width="120">
+      <div style="font-size:40px">🌐</div>
+      <br><b>Dreamweaver</b>
+    </td>
+    <td align="center" width="120">
+      <div style="font-size:40px">📑</div>
+      <br><b>Crystal Reports</b>
+    </td>
   </tr>
 </table>
 
