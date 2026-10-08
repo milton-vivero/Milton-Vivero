@@ -165,7 +165,7 @@ Mi interés se centra en combinar **datos, automatización, visualización y an�
 
 Mis proyectos están orientados a resolver problemas de negocio mediante **datos, automatización, análisis y visualización**.
 
-### 📊 People Analytics Dashboard
+### 📊 People Analytics Dashboard https://github.com/milton-vivero/People-Analytics-Performance-Evaluation-Dashboard
 Dashboard de **Recursos Humanos** desarrollado en Power BI para centralizar indicadores de talento humano, masa salarial, demografía y eficiencia laboral.
 
 ### 🔎 Supply Chain Fraud Detection
